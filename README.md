@@ -76,3 +76,10 @@ Intermediate registers store values between stages:
 
 These registers allow multiple instructions to execute simultaneously in different pipeline stages.
 
+
+## these are the some snipptes
+
+
+
+<img width="1867" height="810" alt="Image" src="https://github.com/user-attachments/assets/bda6a4cf-925f-48de-b785-9888831cc269" />
+
