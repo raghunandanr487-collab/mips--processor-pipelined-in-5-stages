@@ -83,3 +83,7 @@ These registers allow multiple instructions to execute simultaneously in differe
 
 <img width="1867" height="810" alt="Image" src="https://github.com/user-attachments/assets/bda6a4cf-925f-48de-b785-9888831cc269" />
 
+
+
+
+<img width="828" height="542" alt="Image" src="https://github.com/user-attachments/assets/048e522a-cc0d-477f-a182-cf0e3117dce2" />
